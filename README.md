@@ -1,0 +1,2 @@
+# jokempo
+pedra, papel, tesoura
